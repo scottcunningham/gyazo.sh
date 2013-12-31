@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Gyazo clone by Scott
+Comment=wham bam
+Exec=/usr/bin/gyazo
+Icon=/usr/share/icons/gyazo/icon.svg
+Terminal=false
