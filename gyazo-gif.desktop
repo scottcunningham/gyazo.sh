@@ -2,7 +2,7 @@
 Type=Application
 Encoding=UTF-8
 Name=Gyazo GIF version clone by Scott
-Comment=Upload GIFs of your desktop :O
+Comment=Upload GIFs of your desktop
 Exec=/usr/bin/gyazo
 Icon=/usr/share/icons/gyazo/icon-gif.svg
 Terminal=false
